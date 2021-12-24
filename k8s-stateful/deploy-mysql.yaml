@@ -27,6 +27,7 @@ spec:
   strategy:
     type: Recreate
   template:
+  
     metadata:
       labels:
         app: wordpress
